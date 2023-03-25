@@ -9,6 +9,14 @@
 /[Bb]uilds/
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
+git/[Ll]ibrary/
+git/[Tt]emp/
+git/[Oo]bj/
+git/[Bb]uild/
+git/[Bb]uilds/
+git/[Ll]ogs/
+git/[Uu]ser[Ss]ettings/
+
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
